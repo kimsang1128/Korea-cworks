@@ -1,0 +1,103 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\duckjin\\day01\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{DFD7BBBD-2B8D-4303-B7D2-69F8AD11ECC1}|day01\\day01.vcxproj|D:\\duckjin\\day01\\day01\\Daketime.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{DFD7BBBD-2B8D-4303-B7D2-69F8AD11ECC1}|day01\\day01.vcxproj|solutionrelative:day01\\Daketime.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DFD7BBBD-2B8D-4303-B7D2-69F8AD11ECC1}|day01\\day01.vcxproj|D:\\duckjin\\day01\\day01\\Time.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{DFD7BBBD-2B8D-4303-B7D2-69F8AD11ECC1}|day01\\day01.vcxproj|solutionrelative:day01\\Time.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DFD7BBBD-2B8D-4303-B7D2-69F8AD11ECC1}|day01\\day01.vcxproj|D:\\duckjin\\day01\\day01\\Math.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{DFD7BBBD-2B8D-4303-B7D2-69F8AD11ECC1}|day01\\day01.vcxproj|solutionrelative:day01\\Math.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DFD7BBBD-2B8D-4303-B7D2-69F8AD11ECC1}|day01\\day01.vcxproj|D:\\duckjin\\day01\\day01\\Function.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{DFD7BBBD-2B8D-4303-B7D2-69F8AD11ECC1}|day01\\day01.vcxproj|solutionrelative:day01\\Function.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DFD7BBBD-2B8D-4303-B7D2-69F8AD11ECC1}|day01\\day01.vcxproj|C:\\PROGRAM FILES (X86)\\WINDOWS KITS\\10\\INCLUDE\\10.0.22621.0\\UCRT\\CORECRT_MATH.H||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Math.c",
+              "DocumentMoniker": "D:\\duckjin\\day01\\day01\\Math.c",
+              "RelativeDocumentMoniker": "day01\\Math.c",
+              "ToolTip": "D:\\duckjin\\day01\\day01\\Math.c",
+              "RelativeToolTip": "day01\\Math.c",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2025-02-15T01:26:05.076Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Time.c",
+              "DocumentMoniker": "D:\\duckjin\\day01\\day01\\Time.c",
+              "RelativeDocumentMoniker": "day01\\Time.c",
+              "ToolTip": "D:\\duckjin\\day01\\day01\\Time.c",
+              "RelativeToolTip": "day01\\Time.c",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2025-02-15T01:40:31.597Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Function.c",
+              "DocumentMoniker": "D:\\duckjin\\day01\\day01\\Function.c",
+              "RelativeDocumentMoniker": "day01\\Function.c",
+              "ToolTip": "D:\\duckjin\\day01\\day01\\Function.c",
+              "RelativeToolTip": "day01\\Function.c",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2025-02-15T00:46:16.624Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Daketime.c",
+              "DocumentMoniker": "D:\\duckjin\\day01\\day01\\Daketime.c",
+              "RelativeDocumentMoniker": "day01\\Daketime.c",
+              "ToolTip": "D:\\duckjin\\day01\\day01\\Daketime.c*",
+              "RelativeToolTip": "day01\\Daketime.c*",
+              "ViewState": "AgIAACEAAAAAAAAAAAAQwDMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2025-02-15T02:15:22.504Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "corecrt_math.h",
+              "DocumentMoniker": "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.22621.0\\ucrt\\corecrt_math.h",
+              "ToolTip": "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.22621.0\\ucrt\\corecrt_math.h",
+              "ViewState": "AgIAAK0BAAAAAAAAAAAAwBgCAAAwAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-02-15T01:39:29.139Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
